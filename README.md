@@ -1,0 +1,1 @@
+- executar o comando docker-compose up para subir as imagens no docker
